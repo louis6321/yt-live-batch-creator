@@ -4,10 +4,8 @@ A standalone Tampermonkey userscript for batch-creating YouTube Studio live even
 
 ## Install
 
-1. Open Tampermonkey in your browser.
-2. Create a new userscript.
-3. Paste the contents of `youtube-live-batch.user.js`.
-4. Save it, then open `https://studio.youtube.com/`.
+1. Ensure Tampermonkey is installed in your browser.
+2. Click [here](https://github.com/louis6321/yt-live-batch-creator/raw/refs/heads/main/yt-live-batch.user.js).
 
 ## Use
 
